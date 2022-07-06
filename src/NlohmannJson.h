@@ -2,7 +2,7 @@
 
 #ifdef __cplusplus
 
-#include "src/NlJson.hpp"
+#include "NlJson.hpp"
 
 //using namespace ArduinoJson;
 
